@@ -375,7 +375,7 @@ def handle_adres(message):
         bot.reply_to(message, f"Hata oluştu: {e}")
 
 
-Print("Bot aktif...")
+print("Bot aktif...")
 
 bot.polling(none_stop=True)
 
