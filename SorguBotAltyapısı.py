@@ -2,10 +2,10 @@ import telebot
 import requests
 from telebot import types
 
-#iyi kullanımlar
+#Devloaper: ReallyKrak
 
 
-bot = telebot.TeleBot("Token Gir Buraya")
+bot = telebot.TeleBot("7982398630:AAFkQ1hbx7aHZaKWRvzkZ3JsnYzirFtXjF4")
 
 
 @bot.message_handler(commands=['start'])
