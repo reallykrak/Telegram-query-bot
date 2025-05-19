@@ -5,7 +5,7 @@ from telebot import types
 #Devloaper: ReallyKrak
 
 
-bot = telebot.TeleBot("7982398630:AAFkQ1hbx7aHZaKWRvzkZ3JsnYzirFtXjF4")
+bot = telebot.TeleBot("7982398630:AAF7S_VLFnVGiG6sxFyH0Jfebu6_zB_pFNc")
 
 
 @bot.message_handler(commands=['start'])
